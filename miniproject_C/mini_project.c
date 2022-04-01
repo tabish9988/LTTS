@@ -7,7 +7,7 @@
 /** List of Global Variable */
 COORD coord = {0,0}; /// top-left corner of window
 
-/**
+/*
     function : gotoxy
     @param input: x and y coordinates
     @param output: moves the cursor in specified position of console
